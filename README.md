@@ -2,8 +2,7 @@
 
 A modern desktop application for looking up medical and cancer-related terms. This tool provides clear, authoritative definitions from trusted sources through a user-friendly and responsive interface.
 
-![Carcino Term Finder Screenshot](<img width="2048" height="1280" alt="Screenshot 2025-07-24 at 4 36 46 PM" src="https://github.com/user-attachments/assets/8942b4fb-59af-4095-b9e9-d3947d25b51a" />
-) <!-- Replace with a screenshot of your app -->
+<img width="2048" height="1280" alt="Screenshot 2025-07-24 at 4 36 46 PM" src="https://github.com/user-attachments/assets/bfcfb210-b6c3-43aa-b925-bb2882d3f305" />
 
 ## Features
 
@@ -33,8 +32,3 @@ Follow these steps to get the application running on your local machine.
 
 Make sure you have **Python 3.7 or higher** installed on your system.
 
-### 2. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
